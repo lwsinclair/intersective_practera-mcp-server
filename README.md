@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-intersective-practera-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-intersective-practera-mcp-server)
+
 # Practera MCP Server
 
 An MCP (Model Context Protocol) server that provides access to Practera's GraphQL API, allowing AI models to query Practera learning data.
